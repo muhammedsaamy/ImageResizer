@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YOMRBOGXQbJYDkhFczoc+JgpLL/jVT4NVdGdYjnfb4a9WFOpPf0IHWzf4U6luqzYmFC0PZolau3Em6vJ401SoA==",
+  "dgSpecHash": "Or6wC37Gn+K5JKp5sdXaWEc7sZkyZWpQS3HSfu8Gazp8mhdkolj3ZdvobtQn6iN8vtdeaBWiDrw+jpZwgqeirA==",
   "success": true,
   "projectFilePath": "E:\\iti\\Freelance\\ImageResizer\\ImageResizer\\ImageResizer.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,11 @@
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\tinify\\1.6.0\\tinify.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }

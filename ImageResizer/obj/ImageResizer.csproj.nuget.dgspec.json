@@ -43,6 +43,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "Tinify": {
+              "target": "Package",
+              "version": "[1.6.0, )"
             }
           },
           "imports": [
