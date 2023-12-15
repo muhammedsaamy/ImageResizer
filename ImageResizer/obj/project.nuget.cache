@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Or6wC37Gn+K5JKp5sdXaWEc7sZkyZWpQS3HSfu8Gazp8mhdkolj3ZdvobtQn6iN8vtdeaBWiDrw+jpZwgqeirA==",
+  "dgSpecHash": "t4GZTE6QVCUNtaX4O4a8m27HAdQRAfiuIdM+snYKLG36BmqQ5Rqs4/METfcH7xTyhPtQbIjcFs6LoAdDInXRSw==",
   "success": true,
   "projectFilePath": "E:\\iti\\Freelance\\ImageResizer\\ImageResizer\\ImageResizer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Muhammed Samy\\.nuget\\packages\\fluentftp\\48.0.3\\fluentftp.48.0.3.nupkg.sha512",
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Muhammed Samy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

@@ -2,7 +2,7 @@
 {
     public class ImageCompressionRequest
     {
-        public string InputImagePath { get; set; }
-        public string OutputImagePath { get; set; }
+        public string FileName { get; set; }
+        public IFormFile Data { get; set; }
     }
 }

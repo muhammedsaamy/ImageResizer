@@ -32,3 +32,4 @@ E:\iti\Freelance\ImageResizer\ImageResizer\obj\Debug\net6.0\refint\ImageResizer.
 E:\iti\Freelance\ImageResizer\ImageResizer\obj\Debug\net6.0\ImageResizer.pdb
 E:\iti\Freelance\ImageResizer\ImageResizer\obj\Debug\net6.0\ImageResizer.genruntimeconfig.cache
 E:\iti\Freelance\ImageResizer\ImageResizer\obj\Debug\net6.0\ref\ImageResizer.dll
+E:\iti\Freelance\ImageResizer\ImageResizer\bin\Debug\net6.0\FluentFTP.dll

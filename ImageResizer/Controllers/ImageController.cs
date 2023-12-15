@@ -16,8 +16,24 @@ namespace ImageResizer.Controllers
             _imageRepository = imageRepository;
         }
 
-        [HttpPost("CompressImage")]
-        public async Task<IActionResult> CompressImage([FromBody] ImageCompressionRequest request)
+        [HttpPost("upload")]
+        public async Task<IActionResult> UploadImage([FromForm] string FileName, IFormFile Data)
+        {
+            try
+            {
+                var optimizedImage = await _imageRepository.OptimizeImageAsync(Data);
+                await _imageRepository.UploadImageToFtpAsync(FileName, optimizedImage);
+
+                return Ok("Image uploaded successfully");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpPost("compress")]
+        public async Task<IActionResult> CompressImage([FromBody] ImageRequest request)
         {
             try
             {
@@ -36,4 +52,5 @@ namespace ImageResizer.Controllers
             }
         }
     }
+
 }
